@@ -1,0 +1,19 @@
+{
+  "name": "random-twitter",
+  "version": "1.0.0",
+  "description": "Twitter bot that randomizes whatever you tweet to it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/joostlubach/random-twitter.git"
+  },
+  "author": "Joost Lubach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joostlubach/random-twitter/issues"
+  },
+  "homepage": "https://github.com/joostlubach/random-twitter#readme"
+}
